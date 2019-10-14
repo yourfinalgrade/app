@@ -8,6 +8,8 @@ For the final project of [CS 4241 at WPI](https://cs4241-19a.github.io/), our gr
 
 ## Source Code
 
+This repository only contains the build files from the website to take advantage of Github Pages static site hosting. Please look in the linked repositories for source code:
+
 - [View the Website's repository](https://github.com/JCharante/your-final-grade-spa)
 - [View the calculator's repository](https://github.com/JCharante/your-final-grade-calculator)
 - [View the api server's repository](https://github.com/JCharante/your-final-grade-calculator)
